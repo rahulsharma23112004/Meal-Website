@@ -21,7 +21,7 @@ To showcase my frontend skills by designing an aesthetically pleasing and respon
 
 
 <h2>🛠️ Tech Stack</h2>
-🌐 HTML5
+🌐 HTML5 <br>
 🎨 CSS3
 
 
