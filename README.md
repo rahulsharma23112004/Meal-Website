@@ -25,5 +25,5 @@ To showcase my frontend skills by designing an aesthetically pleasing and respon
 🎨 <b>CSS3</b>
 
 
-<h2>📸 Live Hosting:</h2>
+<h2>📸 Live Hosting:</h2>    
 The website is hosted at the folllowing link: https://rahulsharma23112004.github.io/Meal-Website/   
