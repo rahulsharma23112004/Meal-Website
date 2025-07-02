@@ -7,7 +7,7 @@ This project is a <b>UI-focused</b> food meal website designed with core web tec
 
 
 <h2>🎯 Purpose</h2>
-To showcase my frontend skills by designing an aesthetically pleasing and responsive food website using only HTML and CSS.
+To showcase my frontend skills by designing an aesthetically pleasing and responsive food website using only HTML and CSS.   
 
     
 <h2>🧩 Features</h2>
